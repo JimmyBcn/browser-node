@@ -1,3 +1,3 @@
-import sayHello from "./node-browser";
+import Greeter from "./greeter";
 
-export default sayHello;
+export default Greeter;

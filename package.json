@@ -25,6 +25,6 @@
     "@babel/polyfill": "^7.4.4"
   },
   "browser": {
-    "./hello-node.js": "./hello-browser.js"
+    "./build/hello-node.js": "./build/hello-browser.js"
   }
 }
